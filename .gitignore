@@ -1,0 +1,15 @@
+**/node_modules/
+**/dist/
+**/coverage/
+**/.vite/
+**/.env
+**/.env.*
+!**/.env.example
+frontend/android/.gradle/
+frontend/android/**/build/
+frontend/android/local.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+XAUUSD-safe-upload.zip

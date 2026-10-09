@@ -1,0 +1,47 @@
+Installation :
+
+Install dependencies Frontend:
+
+1)cd frontend
+2)npm install
+
+Install dependencies Backend:
+
+1)cd backend
+2)npm install
+
+Working:
+
+To run both mobile and laptop
+
+Run Frontend:
+
+1)cd frontend
+2)npm run dev -- --host 0.0.0.0
+
+Run backend: Another terminal
+
+1)npm run dev:backend
+
+URL:
+Laptop:http://127.0.0.1:5173/
+       http://localhost:5173/
+mobile:http://192.168.43.194:5173
+
+To run only Laptop
+
+Run Frontend:
+
+1)npm run dev:frontend
+
+
+Run backend:Another terminal
+
+1)npm run dev:backend
+
+URL:http://localhost:5173/
+
+
+
+
+
